@@ -9,5 +9,5 @@ The program takes a single argument, the name of a city. If there are multiple c
 ---
 
 Credits:<br>
-Starter code provided by Yusuf Pisan<br>
+Starter code provided by Robert Dimpsey<br>
 Implementation by Dhimitri Mano
